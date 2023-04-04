@@ -1,0 +1,385 @@
+
+*{
+    border: 0px solid red;
+}
+.fondo{
+    background-color:
+    width: 100%;
+    background-image: url(../img/fondo2.png);
+    background-repeat: no-repeat;
+    overflow:hidden;
+    background-size:100%;
+    
+}
+body{
+    margin: 0;
+    background-color:  #0F1320;
+    
+}
+.barra{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.b1{
+    color: white;
+    border: 0px solid #22A75D;
+    border-radius: 18px;
+    background: #2f3a5e;
+}
+.b2{
+    color: white;
+    border: 1px solid #22A75D;
+    padding: 8px 20px;
+    border-radius: 18px;
+    background:#2f3a5e;
+}
+.padre{
+    display: flex;
+    align-items: center;
+}
+.padre a{
+    text-decoration: none;
+    color: white;
+}
+.padre ul{
+    color: white;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.padre ul li:hover{
+    color:#22A75D;
+}
+.padre1{
+    display: flex;
+    justify-content: flex-end;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.padre1 img{
+    width: 640px;
+}
+ .hijo1 .bt{
+    color: white;
+    padding: 8px 20px;
+    border-radius: 18px;
+    background: #22A75D;
+    border: 0px solid #22A75D;
+}
+.az{
+    background: linear-gradient(0deg, #2B3087 0%, #00B4EC 81.99%), #FFD100;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+}
+.hijo1 h1{
+    color: white;
+    font-size: 50px;
+    line-height: 54px;
+    font-weight: 700px;
+}
+.hijo1 p{
+    color: white;
+    font-size: 15px;
+    line-height: 24px;
+}
+.padre2{
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+    color: white;
+    margin: 0px 58px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.hijo2 .txtv{
+    color:#22A75D;;
+}
+.hijo2 .texta{
+    color: #00B4EC;
+}
+.hijo2{
+    border: 0px solid red;
+    background-color: #171B29;
+    border-radius: 20px;
+    padding: 0px;
+   
+}
+.hijo2{
+    border: 0px solid red;
+    background-color: #171B29;
+    border-radius: 20px;
+    height: 10%;
+    width: 50%;
+    padding: 10px;
+}
+.padre3{
+    display: flex;
+    margin-top: 115px;
+}
+#hijo2{
+    margin-top: 10%;
+}
+.hijo3{
+    width: 50%;
+}
+.hijo3 img{
+    width: 100%;
+    height: 100%;
+}
+.hijo4{
+    width:50% ;
+    background-color: white;
+    border-radius: 260px 0px 0px 0px;
+}
+.hijo4 .tx{
+    padding: 80px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.padre4{
+    height: 0px;
+}
+.padre4 img{
+    margin: 0px 0px 0px 80%;
+    width: 285px; 
+}
+.padre5{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    margin-top: 110px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.hijo51 .pv{
+    margin: -85px 118px -22px 118px;
+}
+.hijo51 p{
+    margin: 21px 0px 0px 115px;
+}
+.hijo52 .pa{
+    margin: -85px 118px -22px 118px;
+}
+.hijo52 p{
+    margin: 21px 0px 0px 115px;    
+}
+.hijo53 .pam{
+    margin: -85px 118px -22px 118px;
+}
+.hijo53 p{
+    margin: 21px 0px 0px 115px;  
+}
+.hijo54 .pr{
+    margin: -85px 118px -22px 118px;
+}
+.hijo54 p{
+    margin: 21px 0px 0px 115px;    
+}
+.padre6{
+    display: flex;
+    justify-content: center;
+    margin-top: 105px;
+    gap: 60px;
+}
+.hijo61 img{
+    width: 58px;
+    height: 50px;
+}
+.imgg{
+    display: flex;
+}
+.hijo61{
+    width: 50%;
+}
+.hijo61 h1{
+    color: white;
+}
+.hijo61 p{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.btn{
+    color: white;
+    border: 1px solid #22A75D;
+    padding: 8px 20px;
+    border-radius: 18px;
+    background: #0F1320
+}
+
+.woman img{
+    width: 99%;
+    margin: -3px -47px -15px;
+}
+.fondo6{
+    background-image: url(../img/fondog.png);
+    background-repeat: no-repeat;
+    width: 35%;
+    border-radius: 20px;
+}
+.padre7{
+    font-family:Arial, Helvetica, sans-serif ;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-image: url(../img/fnd.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size: 100%;
+    height: 800px;
+}
+.cuadro1{
+    background: white;
+    width: 25%;
+    border-radius: 28px;
+    margin-block: auto;
+    margin-top: 348px;
+    
+}
+.cuadro2{
+    background: white;
+    width: 25%;
+    border-radius: 28px;
+    margin: inherit;
+    margin-block-end: -60px;
+    margin-block: auto;
+    margin-top: 388pX;
+}
+.cuadro3{
+    background: white;
+    width: 25%;
+    border-radius: 28px;
+    margin-block: auto;
+    margin-top: 348px;
+}
+.txt{
+    text-align: center;
+}
+
+#id{
+        margin: -141px 70px 47px;
+        color: white;
+        text-align: center;
+}
+.title{
+    text-align: center;
+    color: white;
+}
+.padre9{
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+    font-family:Arial, Helvetica, sans-serif ;
+    
+}
+.cuadro9{
+    width: 25%;
+    height: 200px;
+    background-color:#171B29;
+    border-radius: 30px;
+    text-align: center;
+}
+.cuadro10{
+    width: 25%;
+    height: 200px;
+    background-color:#171B29;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.cuadro11{
+    width: 25%;
+    height: 200px;
+    background-color:#171B29;
+    border-radius: 30px;
+    
+}
+.txt9{
+    padding: 60px;
+    color: white;
+}
+.txt10{
+    padding: 60px;
+    color: white;
+}
+.txt10 img{
+    width: 50px;
+    margin: -87px 0px 56px -92px;
+}
+.txt11{
+    padding: 60px;
+    color: white;
+}
+.txt11 img{
+    width: 50px;
+    margin: -43px 0px 25px -91px;
+}
+.padre10{
+    color: white;
+    margin-top: 130px;   
+}
+.padre10 ul li:hover{
+    color:#22A75D;;
+}
+.padre10 a{
+    text-decoration: none;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.lst{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    list-style: none;
+}
+.padre11{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+.padre11 p{
+    color: white;
+}
+.redes11{
+    
+}
+.padre1 img{
+    animation-name:animacion;
+    animation-duration: 3s;
+    
+}
+@keyframes animacion{
+    from{transform: translateX(50%);}
+    to{transform: translateX(0%);}
+}
+.woman img{
+    animation-name:animacion;
+    animation-duration: 3s;
+   
+}
+.lg{
+    animation-name:logo;
+    animation-duration: 2s;
+    
+}
+@keyframes logo{
+    from{transform: translateY(-500px); opacity: 1;}
+
+    to{transform: translateX(0);}
+    opacity: 1;
+}
+
+.barra .barras{
+    display: none;
+    font-size: 34px;
+    color: white;
+}
+
+
+    
+
+
+
+

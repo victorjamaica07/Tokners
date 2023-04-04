@@ -1,0 +1,86 @@
+@media only screen and (max-width:600px) {
+    .fondo nav .barra .padre .links,.fondo .botones{
+        display: none;
+    }
+    .fondo .lg img{
+        width: 85%;
+    }
+    .barra .barras{
+        display: block;
+    }
+    .padre1{
+        flex-wrap: wrap;
+    }
+    .padre2{
+        flex-wrap: wrap;
+    }
+    .padre2 .hijo2{
+        border: 0px solid red;
+        background-color: #171B29;
+        border-radius: 20px;
+        height: auto;
+        width: 100%;
+        padding: 21px;
+    }
+    .padre3{
+        flex-wrap: wrap;
+    }
+    .padre3 .hijo3 img{
+        width: 595px;
+        border-radius: 260px 0px 0px 0px;
+    }
+    .padre3 .hijo4{
+        width: 595px;
+        background-color: white;
+        border-radius: 0 300px 0px 0px;
+    }
+    .padre5{
+        flex-wrap: wrap;
+    }
+    .padre5 .hijo51 .pv{
+        margin: -85px 118px -22px 118px;
+    }
+    .padre6{
+        flex-wrap: nowrap;
+        flex-direction: column-reverse;
+    }
+    .padre6 .hijo61{
+        text-align:justify;
+        width: 100%;
+    }
+    .padre6 .fondo6{
+        width: 100%;
+    }
+    .padre6 img{
+    }
+    
+    .hijo61 img{
+        height: 100px;
+    }
+    .padre7 {
+        background-color:  #0F1320;
+        background-image: url(../img/Mask\ Group.png);
+    }
+    .cuadro1,.cuadro3{
+        display: none;
+    }
+    .cuadro2{
+        width:70%;
+        margin-top: 210px;
+    }
+    .padre9{
+        flex-wrap: wrap;
+    }
+    .cuadro9,.cuadro10,.cuadro11{
+        width: 80%;
+    }
+    .cuadro10{
+        margin-top: 0px;
+    }
+    .padre10{
+        display: none;
+    }
+    .padre11{
+        flex-wrap: wrap;
+    }
+    }
